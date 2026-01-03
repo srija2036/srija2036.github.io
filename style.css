@@ -2,11 +2,11 @@
             padding : 10px;
             display : flex;
             justify-content: space-between;
-            background-color: #ffccb3;
-            color:white
+            background-color: peachpuff;
+            color:white;
         }
         .footer{
-            background-color: rgb(254, 179, 194);
+            background-color: #ffccb3;
             color: #000;
         }
         .container{
@@ -28,7 +28,10 @@
             color: white;
         }
         .box{
-            margin: 10px;
+            width: 300px;
+            background-color: peachpuff;
+            margin: 5px;
             padding: 5px;
-            order: 1px gray solid;
+            border: 1px gray solid;
         }
+
