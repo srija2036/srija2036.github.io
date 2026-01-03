@@ -2,11 +2,11 @@
             padding : 10px;
             display : flex;
             justify-content: space-between;
-            background-color: rgb(250, 197, 250);
+            background-color: #ffccb3;
             color:white
         }
         .footer{
-            background-color: rgb(253, 169, 183);
+            background-color: rgb(254, 179, 194);
             color: #000;
         }
         .container{
@@ -18,4 +18,12 @@
         .menu{
             display: flex;
         
+        }
+        .menu li{
+            list-style: none;
+            margin: 5px;
+        }
+        .menu li a{
+            text-decoration: none;
+            color: white;
         }
