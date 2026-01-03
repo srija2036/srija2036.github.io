@@ -27,3 +27,8 @@
             text-decoration: none;
             color: white;
         }
+        .box{
+            margin: 10px;
+            padding: 5px;
+            order: 1px gray solid;
+        }
